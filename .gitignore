@@ -26,6 +26,16 @@
 *.a
 *.lib
 
+# Configuration
+*.ini
+
+# Resources
+*.jpg
+*.png
+
+# Package
+*.zip
+
 # Executables
 *.exe
 *.out
